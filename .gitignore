@@ -48,3 +48,4 @@ nbdist/
 
 /agileboot-admin/src/main/resources/application-prod.yml
 
+/logs/
